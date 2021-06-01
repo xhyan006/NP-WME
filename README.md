@@ -1,1 +1,1 @@
-Code of A Natural-based Fusion Strategy for Underwater Image Enhancement
+MATLAB code for A Natural-based Fusion Strategy for Underwater Image Enhancement
